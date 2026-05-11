@@ -10,3 +10,8 @@ chroma_db/
 dist/
 .idea/
 .vscode/
+.errlog
+.claude
+AI-Agent-2-Month-Sprint.md
+design_philosophy.md
+TROUBLESHOOTING.md
